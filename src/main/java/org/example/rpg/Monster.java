@@ -1,6 +1,6 @@
 package org.example.rpg;
 
-public abstract class Monster implements Bleedable, Poisonable {
+public abstract class Monster  {
     private String name;
     private int hitPoints;
     private double damage;
